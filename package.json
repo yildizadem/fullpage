@@ -1,0 +1,26 @@
+{
+  "name": "full-page",
+  "version": "1.0.0",
+  "description": "Lightweight Full Page App",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yildizadem/fullpage.git"
+  },
+  "keywords": [
+    "full-page",
+    "web"
+  ],
+  "author": "Adem Yıldız",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yildizadem/fullpage/issues"
+  },
+  "homepage": "https://github.com/yildizadem/fullpage#readme"
+}
